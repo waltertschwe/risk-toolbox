@@ -5,6 +5,6 @@
     <title>Test</title>
     
 <body>
-   Hello, <?php echo $name; ?>
+   Hello, <?php echo $user['username']; ?>
 </body>
 </html>
